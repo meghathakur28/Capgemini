@@ -1,0 +1,15 @@
+D:\.net\M1_Practice\RealEstateListingManagement\bin\Debug\net10.0\RealEstateListingManagement.exe
+D:\.net\M1_Practice\RealEstateListingManagement\bin\Debug\net10.0\RealEstateListingManagement.deps.json
+D:\.net\M1_Practice\RealEstateListingManagement\bin\Debug\net10.0\RealEstateListingManagement.runtimeconfig.json
+D:\.net\M1_Practice\RealEstateListingManagement\bin\Debug\net10.0\RealEstateListingManagement.dll
+D:\.net\M1_Practice\RealEstateListingManagement\bin\Debug\net10.0\RealEstateListingManagement.pdb
+D:\.net\M1_Practice\RealEstateListingManagement\obj\Debug\net10.0\RealEstateListingManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\M1_Practice\RealEstateListingManagement\obj\Debug\net10.0\RealEstateListingManagement.AssemblyInfoInputs.cache
+D:\.net\M1_Practice\RealEstateListingManagement\obj\Debug\net10.0\RealEstateListingManagement.AssemblyInfo.cs
+D:\.net\M1_Practice\RealEstateListingManagement\obj\Debug\net10.0\RealEstateListingManagement.csproj.CoreCompileInputs.cache
+D:\.net\M1_Practice\RealEstateListingManagement\obj\Debug\net10.0\RealEstateListingManagement.sourcelink.json
+D:\.net\M1_Practice\RealEstateListingManagement\obj\Debug\net10.0\RealEstateListingManagement.dll
+D:\.net\M1_Practice\RealEstateListingManagement\obj\Debug\net10.0\refint\RealEstateListingManagement.dll
+D:\.net\M1_Practice\RealEstateListingManagement\obj\Debug\net10.0\RealEstateListingManagement.pdb
+D:\.net\M1_Practice\RealEstateListingManagement\obj\Debug\net10.0\RealEstateListingManagement.genruntimeconfig.cache
+D:\.net\M1_Practice\RealEstateListingManagement\obj\Debug\net10.0\ref\RealEstateListingManagement.dll
