@@ -1,0 +1,15 @@
+D:\.net\M1_Practice\ProductInventoryManagement\bin\Debug\net10.0\ProductInventoryManagement.exe
+D:\.net\M1_Practice\ProductInventoryManagement\bin\Debug\net10.0\ProductInventoryManagement.deps.json
+D:\.net\M1_Practice\ProductInventoryManagement\bin\Debug\net10.0\ProductInventoryManagement.runtimeconfig.json
+D:\.net\M1_Practice\ProductInventoryManagement\bin\Debug\net10.0\ProductInventoryManagement.dll
+D:\.net\M1_Practice\ProductInventoryManagement\bin\Debug\net10.0\ProductInventoryManagement.pdb
+D:\.net\M1_Practice\ProductInventoryManagement\obj\Debug\net10.0\ProductInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\M1_Practice\ProductInventoryManagement\obj\Debug\net10.0\ProductInventoryManagement.AssemblyInfoInputs.cache
+D:\.net\M1_Practice\ProductInventoryManagement\obj\Debug\net10.0\ProductInventoryManagement.AssemblyInfo.cs
+D:\.net\M1_Practice\ProductInventoryManagement\obj\Debug\net10.0\ProductInventoryManagement.csproj.CoreCompileInputs.cache
+D:\.net\M1_Practice\ProductInventoryManagement\obj\Debug\net10.0\ProductInventoryManagement.sourcelink.json
+D:\.net\M1_Practice\ProductInventoryManagement\obj\Debug\net10.0\ProductInventoryManagement.dll
+D:\.net\M1_Practice\ProductInventoryManagement\obj\Debug\net10.0\refint\ProductInventoryManagement.dll
+D:\.net\M1_Practice\ProductInventoryManagement\obj\Debug\net10.0\ProductInventoryManagement.pdb
+D:\.net\M1_Practice\ProductInventoryManagement\obj\Debug\net10.0\ProductInventoryManagement.genruntimeconfig.cache
+D:\.net\M1_Practice\ProductInventoryManagement\obj\Debug\net10.0\ref\ProductInventoryManagement.dll
