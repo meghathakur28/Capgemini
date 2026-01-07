@@ -31,7 +31,7 @@ public class Program
         Console.WriteLine("------------------------");
         Console.WriteLine("1. Add Entry");
         Console.WriteLine("2. Get Transactions By Date");
-        Console.WriteLine("3. Get Total Income ");
+        Console.WriteLine("3. Get Total Expense");
         Console.WriteLine("4. Exit");
         Console.ResetColor();
     }
@@ -55,7 +55,7 @@ public class Program
                         while(incomeChoice!=4)
                         {
                             IncomeMenu();
-                            Console.WriteLine("Enterthe choice: ");
+                            Console.WriteLine("Enter the choice: ");
                             incomeChoice = Int32.Parse(Console.ReadLine());
                             switch(incomeChoice)
                             {
@@ -140,7 +140,7 @@ public class Program
                                     }
                                 case 4:
                                     {
-                                        Console.WriteLine("Thankyou for using Income Ledger");
+                                        Console.WriteLine("Thankyou for using Expense Ledger");
                                         break;
                                     }
                             }
