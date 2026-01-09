@@ -1,0 +1,15 @@
+D:\.net\M1_Practice\BankChatBot\bin\Debug\net10.0\BankChatBot.exe
+D:\.net\M1_Practice\BankChatBot\bin\Debug\net10.0\BankChatBot.deps.json
+D:\.net\M1_Practice\BankChatBot\bin\Debug\net10.0\BankChatBot.runtimeconfig.json
+D:\.net\M1_Practice\BankChatBot\bin\Debug\net10.0\BankChatBot.dll
+D:\.net\M1_Practice\BankChatBot\bin\Debug\net10.0\BankChatBot.pdb
+D:\.net\M1_Practice\BankChatBot\obj\Debug\net10.0\BankChatBot.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\M1_Practice\BankChatBot\obj\Debug\net10.0\BankChatBot.AssemblyInfoInputs.cache
+D:\.net\M1_Practice\BankChatBot\obj\Debug\net10.0\BankChatBot.AssemblyInfo.cs
+D:\.net\M1_Practice\BankChatBot\obj\Debug\net10.0\BankChatBot.csproj.CoreCompileInputs.cache
+D:\.net\M1_Practice\BankChatBot\obj\Debug\net10.0\BankChatBot.sourcelink.json
+D:\.net\M1_Practice\BankChatBot\obj\Debug\net10.0\BankChatBot.dll
+D:\.net\M1_Practice\BankChatBot\obj\Debug\net10.0\refint\BankChatBot.dll
+D:\.net\M1_Practice\BankChatBot\obj\Debug\net10.0\BankChatBot.pdb
+D:\.net\M1_Practice\BankChatBot\obj\Debug\net10.0\BankChatBot.genruntimeconfig.cache
+D:\.net\M1_Practice\BankChatBot\obj\Debug\net10.0\ref\BankChatBot.dll
