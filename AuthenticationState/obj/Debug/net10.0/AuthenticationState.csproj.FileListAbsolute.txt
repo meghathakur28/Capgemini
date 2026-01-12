@@ -1,0 +1,15 @@
+D:\.net\M1_Practice\AuthenticationState\obj\Debug\net10.0\AuthenticationState.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\M1_Practice\AuthenticationState\obj\Debug\net10.0\AuthenticationState.AssemblyInfoInputs.cache
+D:\.net\M1_Practice\AuthenticationState\obj\Debug\net10.0\AuthenticationState.AssemblyInfo.cs
+D:\.net\M1_Practice\AuthenticationState\obj\Debug\net10.0\AuthenticationState.csproj.CoreCompileInputs.cache
+D:\.net\M1_Practice\AuthenticationState\obj\Debug\net10.0\AuthenticationState.sourcelink.json
+D:\.net\M1_Practice\AuthenticationState\bin\Debug\net10.0\AuthenticationState.exe
+D:\.net\M1_Practice\AuthenticationState\bin\Debug\net10.0\AuthenticationState.deps.json
+D:\.net\M1_Practice\AuthenticationState\bin\Debug\net10.0\AuthenticationState.runtimeconfig.json
+D:\.net\M1_Practice\AuthenticationState\bin\Debug\net10.0\AuthenticationState.dll
+D:\.net\M1_Practice\AuthenticationState\bin\Debug\net10.0\AuthenticationState.pdb
+D:\.net\M1_Practice\AuthenticationState\obj\Debug\net10.0\AuthenticationState.dll
+D:\.net\M1_Practice\AuthenticationState\obj\Debug\net10.0\refint\AuthenticationState.dll
+D:\.net\M1_Practice\AuthenticationState\obj\Debug\net10.0\AuthenticationState.pdb
+D:\.net\M1_Practice\AuthenticationState\obj\Debug\net10.0\AuthenticationState.genruntimeconfig.cache
+D:\.net\M1_Practice\AuthenticationState\obj\Debug\net10.0\ref\AuthenticationState.dll
