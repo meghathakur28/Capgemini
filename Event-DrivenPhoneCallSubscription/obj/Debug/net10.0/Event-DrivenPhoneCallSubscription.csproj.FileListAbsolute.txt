@@ -1,0 +1,15 @@
+D:\.net\Event-DrivenPhoneCallSubscription\bin\Debug\net10.0\Event-DrivenPhoneCallSubscription.exe
+D:\.net\Event-DrivenPhoneCallSubscription\bin\Debug\net10.0\Event-DrivenPhoneCallSubscription.deps.json
+D:\.net\Event-DrivenPhoneCallSubscription\bin\Debug\net10.0\Event-DrivenPhoneCallSubscription.runtimeconfig.json
+D:\.net\Event-DrivenPhoneCallSubscription\bin\Debug\net10.0\Event-DrivenPhoneCallSubscription.dll
+D:\.net\Event-DrivenPhoneCallSubscription\bin\Debug\net10.0\Event-DrivenPhoneCallSubscription.pdb
+D:\.net\Event-DrivenPhoneCallSubscription\obj\Debug\net10.0\Event-DrivenPhoneCallSubscription.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Event-DrivenPhoneCallSubscription\obj\Debug\net10.0\Event-DrivenPhoneCallSubscription.AssemblyInfoInputs.cache
+D:\.net\Event-DrivenPhoneCallSubscription\obj\Debug\net10.0\Event-DrivenPhoneCallSubscription.AssemblyInfo.cs
+D:\.net\Event-DrivenPhoneCallSubscription\obj\Debug\net10.0\Event-DrivenPhoneCallSubscription.csproj.CoreCompileInputs.cache
+D:\.net\Event-DrivenPhoneCallSubscription\obj\Debug\net10.0\Event-DrivenPhoneCallSubscription.sourcelink.json
+D:\.net\Event-DrivenPhoneCallSubscription\obj\Debug\net10.0\Event-DrivenPhoneCallSubscription.dll
+D:\.net\Event-DrivenPhoneCallSubscription\obj\Debug\net10.0\refint\Event-DrivenPhoneCallSubscription.dll
+D:\.net\Event-DrivenPhoneCallSubscription\obj\Debug\net10.0\Event-DrivenPhoneCallSubscription.pdb
+D:\.net\Event-DrivenPhoneCallSubscription\obj\Debug\net10.0\Event-DrivenPhoneCallSubscription.genruntimeconfig.cache
+D:\.net\Event-DrivenPhoneCallSubscription\obj\Debug\net10.0\ref\Event-DrivenPhoneCallSubscription.dll
