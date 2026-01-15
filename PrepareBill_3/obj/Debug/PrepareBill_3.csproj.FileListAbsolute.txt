@@ -1,0 +1,7 @@
+D:\.net\doselectquestion\PrepareBill_3\bin\Debug\PrepareBill_3.exe.config
+D:\.net\doselectquestion\PrepareBill_3\bin\Debug\PrepareBill_3.exe
+D:\.net\doselectquestion\PrepareBill_3\bin\Debug\PrepareBill_3.pdb
+D:\.net\doselectquestion\PrepareBill_3\obj\Debug\PrepareBill_3.csproj.AssemblyReference.cache
+D:\.net\doselectquestion\PrepareBill_3\obj\Debug\PrepareBill_3.csproj.CoreCompileInputs.cache
+D:\.net\doselectquestion\PrepareBill_3\obj\Debug\PrepareBill_3.exe
+D:\.net\doselectquestion\PrepareBill_3\obj\Debug\PrepareBill_3.pdb
