@@ -1,0 +1,7 @@
+D:\.net\doselectquestion\StudentScholarship\bin\Debug\StudentScholarship.exe.config
+D:\.net\doselectquestion\StudentScholarship\bin\Debug\StudentScholarship.exe
+D:\.net\doselectquestion\StudentScholarship\bin\Debug\StudentScholarship.pdb
+D:\.net\doselectquestion\StudentScholarship\obj\Debug\StudentScholarship.csproj.AssemblyReference.cache
+D:\.net\doselectquestion\StudentScholarship\obj\Debug\StudentScholarship.csproj.CoreCompileInputs.cache
+D:\.net\doselectquestion\StudentScholarship\obj\Debug\StudentScholarship.exe
+D:\.net\doselectquestion\StudentScholarship\obj\Debug\StudentScholarship.pdb
