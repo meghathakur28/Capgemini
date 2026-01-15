@@ -1,0 +1,7 @@
+D:\.net\doselectquestion\BroadbandPlans_4\bin\Debug\BroadbandPlans_4.exe.config
+D:\.net\doselectquestion\BroadbandPlans_4\bin\Debug\BroadbandPlans_4.exe
+D:\.net\doselectquestion\BroadbandPlans_4\bin\Debug\BroadbandPlans_4.pdb
+D:\.net\doselectquestion\BroadbandPlans_4\obj\Debug\BroadbandPlans_4.csproj.AssemblyReference.cache
+D:\.net\doselectquestion\BroadbandPlans_4\obj\Debug\BroadbandPlans_4.csproj.CoreCompileInputs.cache
+D:\.net\doselectquestion\BroadbandPlans_4\obj\Debug\BroadbandPlans_4.exe
+D:\.net\doselectquestion\BroadbandPlans_4\obj\Debug\BroadbandPlans_4.pdb
