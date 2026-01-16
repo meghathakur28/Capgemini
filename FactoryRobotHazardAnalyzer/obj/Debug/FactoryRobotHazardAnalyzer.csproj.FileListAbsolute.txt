@@ -1,0 +1,7 @@
+D:\.net\M1_Practice\FactoryRobotHazardAnalyzer\bin\Debug\FactoryRobotHazardAnalyzer.exe.config
+D:\.net\M1_Practice\FactoryRobotHazardAnalyzer\bin\Debug\FactoryRobotHazardAnalyzer.exe
+D:\.net\M1_Practice\FactoryRobotHazardAnalyzer\bin\Debug\FactoryRobotHazardAnalyzer.pdb
+D:\.net\M1_Practice\FactoryRobotHazardAnalyzer\obj\Debug\FactoryRobotHazardAnalyzer.csproj.AssemblyReference.cache
+D:\.net\M1_Practice\FactoryRobotHazardAnalyzer\obj\Debug\FactoryRobotHazardAnalyzer.csproj.CoreCompileInputs.cache
+D:\.net\M1_Practice\FactoryRobotHazardAnalyzer\obj\Debug\FactoryRobotHazardAnalyzer.exe
+D:\.net\M1_Practice\FactoryRobotHazardAnalyzer\obj\Debug\FactoryRobotHazardAnalyzer.pdb
