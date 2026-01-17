@@ -1,0 +1,7 @@
+D:\.net\17-01-2026Assignment\MovieStock\bin\Debug\MovieStock.exe.config
+D:\.net\17-01-2026Assignment\MovieStock\bin\Debug\MovieStock.exe
+D:\.net\17-01-2026Assignment\MovieStock\bin\Debug\MovieStock.pdb
+D:\.net\17-01-2026Assignment\MovieStock\obj\Debug\MovieStock.csproj.AssemblyReference.cache
+D:\.net\17-01-2026Assignment\MovieStock\obj\Debug\MovieStock.csproj.CoreCompileInputs.cache
+D:\.net\17-01-2026Assignment\MovieStock\obj\Debug\MovieStock.exe
+D:\.net\17-01-2026Assignment\MovieStock\obj\Debug\MovieStock.pdb
