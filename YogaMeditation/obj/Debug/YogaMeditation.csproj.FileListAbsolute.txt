@@ -1,0 +1,7 @@
+D:\.net\17-01-2026Assignment\YogaMeditation\bin\Debug\YogaMeditation.exe.config
+D:\.net\17-01-2026Assignment\YogaMeditation\bin\Debug\YogaMeditation.exe
+D:\.net\17-01-2026Assignment\YogaMeditation\bin\Debug\YogaMeditation.pdb
+D:\.net\17-01-2026Assignment\YogaMeditation\obj\Debug\YogaMeditation.csproj.AssemblyReference.cache
+D:\.net\17-01-2026Assignment\YogaMeditation\obj\Debug\YogaMeditation.csproj.CoreCompileInputs.cache
+D:\.net\17-01-2026Assignment\YogaMeditation\obj\Debug\YogaMeditation.exe
+D:\.net\17-01-2026Assignment\YogaMeditation\obj\Debug\YogaMeditation.pdb
