@@ -1,0 +1,7 @@
+D:\.net\17-01-2026Assignment\EcommerceApplication\bin\Debug\EcommerceApplication.exe.config
+D:\.net\17-01-2026Assignment\EcommerceApplication\bin\Debug\EcommerceApplication.exe
+D:\.net\17-01-2026Assignment\EcommerceApplication\bin\Debug\EcommerceApplication.pdb
+D:\.net\17-01-2026Assignment\EcommerceApplication\obj\Debug\EcommerceApplication.csproj.AssemblyReference.cache
+D:\.net\17-01-2026Assignment\EcommerceApplication\obj\Debug\EcommerceApplication.csproj.CoreCompileInputs.cache
+D:\.net\17-01-2026Assignment\EcommerceApplication\obj\Debug\EcommerceApplication.exe
+D:\.net\17-01-2026Assignment\EcommerceApplication\obj\Debug\EcommerceApplication.pdb
