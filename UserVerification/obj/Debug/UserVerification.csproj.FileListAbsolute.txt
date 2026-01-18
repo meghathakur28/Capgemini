@@ -1,0 +1,7 @@
+D:\.net\17-01-2026Assignment\UserVerification\bin\Debug\UserVerification.exe.config
+D:\.net\17-01-2026Assignment\UserVerification\bin\Debug\UserVerification.exe
+D:\.net\17-01-2026Assignment\UserVerification\bin\Debug\UserVerification.pdb
+D:\.net\17-01-2026Assignment\UserVerification\obj\Debug\UserVerification.csproj.AssemblyReference.cache
+D:\.net\17-01-2026Assignment\UserVerification\obj\Debug\UserVerification.csproj.CoreCompileInputs.cache
+D:\.net\17-01-2026Assignment\UserVerification\obj\Debug\UserVerification.exe
+D:\.net\17-01-2026Assignment\UserVerification\obj\Debug\UserVerification.pdb
