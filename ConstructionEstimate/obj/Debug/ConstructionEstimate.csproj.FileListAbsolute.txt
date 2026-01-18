@@ -1,0 +1,7 @@
+D:\.net\17-01-2026Assignment\ConstructionEstimate\bin\Debug\ConstructionEstimate.exe.config
+D:\.net\17-01-2026Assignment\ConstructionEstimate\bin\Debug\ConstructionEstimate.exe
+D:\.net\17-01-2026Assignment\ConstructionEstimate\bin\Debug\ConstructionEstimate.pdb
+D:\.net\17-01-2026Assignment\ConstructionEstimate\obj\Debug\ConstructionEstimate.csproj.AssemblyReference.cache
+D:\.net\17-01-2026Assignment\ConstructionEstimate\obj\Debug\ConstructionEstimate.csproj.CoreCompileInputs.cache
+D:\.net\17-01-2026Assignment\ConstructionEstimate\obj\Debug\ConstructionEstimate.exe
+D:\.net\17-01-2026Assignment\ConstructionEstimate\obj\Debug\ConstructionEstimate.pdb
