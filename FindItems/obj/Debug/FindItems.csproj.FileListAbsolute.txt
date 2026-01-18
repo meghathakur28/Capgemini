@@ -1,0 +1,7 @@
+D:\.net\17-01-2026Assignment\FindItems\obj\Debug\FindItems.csproj.AssemblyReference.cache
+D:\.net\17-01-2026Assignment\FindItems\obj\Debug\FindItems.csproj.CoreCompileInputs.cache
+D:\.net\17-01-2026Assignment\FindItems\bin\Debug\FindItems.exe.config
+D:\.net\17-01-2026Assignment\FindItems\bin\Debug\FindItems.exe
+D:\.net\17-01-2026Assignment\FindItems\bin\Debug\FindItems.pdb
+D:\.net\17-01-2026Assignment\FindItems\obj\Debug\FindItems.exe
+D:\.net\17-01-2026Assignment\FindItems\obj\Debug\FindItems.pdb
