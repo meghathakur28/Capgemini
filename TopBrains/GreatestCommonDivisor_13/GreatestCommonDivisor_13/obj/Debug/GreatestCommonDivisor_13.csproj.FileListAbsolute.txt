@@ -1,0 +1,7 @@
+D:\.net\TopBrains\GreatestCommonDivisor_13\GreatestCommonDivisor_13\bin\Debug\GreatestCommonDivisor_13.exe.config
+D:\.net\TopBrains\GreatestCommonDivisor_13\GreatestCommonDivisor_13\bin\Debug\GreatestCommonDivisor_13.exe
+D:\.net\TopBrains\GreatestCommonDivisor_13\GreatestCommonDivisor_13\bin\Debug\GreatestCommonDivisor_13.pdb
+D:\.net\TopBrains\GreatestCommonDivisor_13\GreatestCommonDivisor_13\obj\Debug\GreatestCommonDivisor_13.csproj.AssemblyReference.cache
+D:\.net\TopBrains\GreatestCommonDivisor_13\GreatestCommonDivisor_13\obj\Debug\GreatestCommonDivisor_13.csproj.CoreCompileInputs.cache
+D:\.net\TopBrains\GreatestCommonDivisor_13\GreatestCommonDivisor_13\obj\Debug\GreatestCommonDivisor_13.exe
+D:\.net\TopBrains\GreatestCommonDivisor_13\GreatestCommonDivisor_13\obj\Debug\GreatestCommonDivisor_13.pdb
