@@ -1,0 +1,7 @@
+D:\.net\TopBrains\InventoryNameCleanup_11\InventoryNameCleanup_11\bin\Debug\InventoryNameCleanup_11.exe.config
+D:\.net\TopBrains\InventoryNameCleanup_11\InventoryNameCleanup_11\bin\Debug\InventoryNameCleanup_11.exe
+D:\.net\TopBrains\InventoryNameCleanup_11\InventoryNameCleanup_11\bin\Debug\InventoryNameCleanup_11.pdb
+D:\.net\TopBrains\InventoryNameCleanup_11\InventoryNameCleanup_11\obj\Debug\InventoryNameCleanup_11.csproj.AssemblyReference.cache
+D:\.net\TopBrains\InventoryNameCleanup_11\InventoryNameCleanup_11\obj\Debug\InventoryNameCleanup_11.csproj.CoreCompileInputs.cache
+D:\.net\TopBrains\InventoryNameCleanup_11\InventoryNameCleanup_11\obj\Debug\InventoryNameCleanup_11.exe
+D:\.net\TopBrains\InventoryNameCleanup_11\InventoryNameCleanup_11\obj\Debug\InventoryNameCleanup_11.pdb
