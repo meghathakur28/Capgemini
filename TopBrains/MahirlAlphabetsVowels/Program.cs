@@ -17,21 +17,23 @@ namespace MahirlAlphabetsVowels
             Console.WriteLine("Enter the second word");
             string w2 = Console.ReadLine().ToLower();
 
-            string consonants =String.Empty;
+            StringBuilder consonants = new StringBuilder();
+            string vowels = "aeiou";
 
             foreach (var i in w1)
             {
-                if (i == 'a' || i=='e'|| i =='i' || i== 'o'|| i=='u')
+                if (!vowels.Contains(i) && w2.Contains(i))
                 {
-                    if (w2.Contains(i))
-                    {
-                        consonants += i;
-                    }
+                    continue;
+                }
+                else
+                {
+                    consonants.Append(i);
                 }
             }
 
             StringBuilder ans = new StringBuilder();
-            for(int i= 1; i < consonants.Length;i++)
+            for(int i= 0; i < consonants.Length;i++)
             {
                 if (i==0 || consonants[i] != consonants[i-1] )
                 {
