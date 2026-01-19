@@ -1,0 +1,7 @@
+D:\.net\TopBrains\Conversion_19\Conversion_19\bin\Debug\Conversion_19.exe.config
+D:\.net\TopBrains\Conversion_19\Conversion_19\bin\Debug\Conversion_19.exe
+D:\.net\TopBrains\Conversion_19\Conversion_19\bin\Debug\Conversion_19.pdb
+D:\.net\TopBrains\Conversion_19\Conversion_19\obj\Debug\Conversion_19.csproj.AssemblyReference.cache
+D:\.net\TopBrains\Conversion_19\Conversion_19\obj\Debug\Conversion_19.csproj.CoreCompileInputs.cache
+D:\.net\TopBrains\Conversion_19\Conversion_19\obj\Debug\Conversion_19.exe
+D:\.net\TopBrains\Conversion_19\Conversion_19\obj\Debug\Conversion_19.pdb
