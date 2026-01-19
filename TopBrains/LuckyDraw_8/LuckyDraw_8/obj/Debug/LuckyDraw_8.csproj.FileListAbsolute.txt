@@ -1,0 +1,7 @@
+D:\.net\TopBrains\LuckyDraw_8\LuckyDraw_8\obj\Debug\LuckyDraw_8.csproj.AssemblyReference.cache
+D:\.net\TopBrains\LuckyDraw_8\LuckyDraw_8\obj\Debug\LuckyDraw_8.csproj.CoreCompileInputs.cache
+D:\.net\TopBrains\LuckyDraw_8\LuckyDraw_8\bin\Debug\LuckyDraw_8.exe.config
+D:\.net\TopBrains\LuckyDraw_8\LuckyDraw_8\bin\Debug\LuckyDraw_8.exe
+D:\.net\TopBrains\LuckyDraw_8\LuckyDraw_8\bin\Debug\LuckyDraw_8.pdb
+D:\.net\TopBrains\LuckyDraw_8\LuckyDraw_8\obj\Debug\LuckyDraw_8.exe
+D:\.net\TopBrains\LuckyDraw_8\LuckyDraw_8\obj\Debug\LuckyDraw_8.pdb
