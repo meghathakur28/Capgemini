@@ -1,0 +1,7 @@
+D:\.net\TopBrains\CustomSorting_20\CustomSorting_20\bin\Debug\CustomSorting_20.exe.config
+D:\.net\TopBrains\CustomSorting_20\CustomSorting_20\bin\Debug\CustomSorting_20.exe
+D:\.net\TopBrains\CustomSorting_20\CustomSorting_20\bin\Debug\CustomSorting_20.pdb
+D:\.net\TopBrains\CustomSorting_20\CustomSorting_20\obj\Debug\CustomSorting_20.csproj.AssemblyReference.cache
+D:\.net\TopBrains\CustomSorting_20\CustomSorting_20\obj\Debug\CustomSorting_20.csproj.CoreCompileInputs.cache
+D:\.net\TopBrains\CustomSorting_20\CustomSorting_20\obj\Debug\CustomSorting_20.exe
+D:\.net\TopBrains\CustomSorting_20\CustomSorting_20\obj\Debug\CustomSorting_20.pdb
