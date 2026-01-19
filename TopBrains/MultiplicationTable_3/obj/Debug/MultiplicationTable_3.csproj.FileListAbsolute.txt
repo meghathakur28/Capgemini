@@ -1,0 +1,7 @@
+D:\.net\TopBrains\MultiplicationTable_3\bin\Debug\MultiplicationTable_3.exe.config
+D:\.net\TopBrains\MultiplicationTable_3\bin\Debug\MultiplicationTable_3.exe
+D:\.net\TopBrains\MultiplicationTable_3\bin\Debug\MultiplicationTable_3.pdb
+D:\.net\TopBrains\MultiplicationTable_3\obj\Debug\MultiplicationTable_3.csproj.AssemblyReference.cache
+D:\.net\TopBrains\MultiplicationTable_3\obj\Debug\MultiplicationTable_3.csproj.CoreCompileInputs.cache
+D:\.net\TopBrains\MultiplicationTable_3\obj\Debug\MultiplicationTable_3.exe
+D:\.net\TopBrains\MultiplicationTable_3\obj\Debug\MultiplicationTable_3.pdb
