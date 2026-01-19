@@ -1,0 +1,7 @@
+D:\.net\TopBrains\MahirlAlphabetsVowels\bin\Debug\MahirlAlphabetsVowels.exe.config
+D:\.net\TopBrains\MahirlAlphabetsVowels\bin\Debug\MahirlAlphabetsVowels.exe
+D:\.net\TopBrains\MahirlAlphabetsVowels\bin\Debug\MahirlAlphabetsVowels.pdb
+D:\.net\TopBrains\MahirlAlphabetsVowels\obj\Debug\MahirlAlphabetsVowels.csproj.AssemblyReference.cache
+D:\.net\TopBrains\MahirlAlphabetsVowels\obj\Debug\MahirlAlphabetsVowels.csproj.CoreCompileInputs.cache
+D:\.net\TopBrains\MahirlAlphabetsVowels\obj\Debug\MahirlAlphabetsVowels.exe
+D:\.net\TopBrains\MahirlAlphabetsVowels\obj\Debug\MahirlAlphabetsVowels.pdb
