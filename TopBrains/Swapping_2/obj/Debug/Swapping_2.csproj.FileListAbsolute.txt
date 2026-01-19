@@ -1,0 +1,7 @@
+D:\.net\TopBrains\Swapping_2\bin\Debug\Swapping_2.exe.config
+D:\.net\TopBrains\Swapping_2\bin\Debug\Swapping_2.exe
+D:\.net\TopBrains\Swapping_2\bin\Debug\Swapping_2.pdb
+D:\.net\TopBrains\Swapping_2\obj\Debug\Swapping_2.csproj.AssemblyReference.cache
+D:\.net\TopBrains\Swapping_2\obj\Debug\Swapping_2.csproj.CoreCompileInputs.cache
+D:\.net\TopBrains\Swapping_2\obj\Debug\Swapping_2.exe
+D:\.net\TopBrains\Swapping_2\obj\Debug\Swapping_2.pdb
