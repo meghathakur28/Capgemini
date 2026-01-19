@@ -1,0 +1,7 @@
+D:\.net\TopBrains\TimeConversion_21\TimeConversion_21\bin\Debug\TimeConversion_21.exe.config
+D:\.net\TopBrains\TimeConversion_21\TimeConversion_21\bin\Debug\TimeConversion_21.exe
+D:\.net\TopBrains\TimeConversion_21\TimeConversion_21\bin\Debug\TimeConversion_21.pdb
+D:\.net\TopBrains\TimeConversion_21\TimeConversion_21\obj\Debug\TimeConversion_21.csproj.AssemblyReference.cache
+D:\.net\TopBrains\TimeConversion_21\TimeConversion_21\obj\Debug\TimeConversion_21.csproj.CoreCompileInputs.cache
+D:\.net\TopBrains\TimeConversion_21\TimeConversion_21\obj\Debug\TimeConversion_21.exe
+D:\.net\TopBrains\TimeConversion_21\TimeConversion_21\obj\Debug\TimeConversion_21.pdb
