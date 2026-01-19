@@ -1,0 +1,7 @@
+D:\.net\TopBrains\BankTransaction_9\BankTransaction_9\bin\Debug\BankTransaction_9.exe.config
+D:\.net\TopBrains\BankTransaction_9\BankTransaction_9\bin\Debug\BankTransaction_9.exe
+D:\.net\TopBrains\BankTransaction_9\BankTransaction_9\bin\Debug\BankTransaction_9.pdb
+D:\.net\TopBrains\BankTransaction_9\BankTransaction_9\obj\Debug\BankTransaction_9.csproj.AssemblyReference.cache
+D:\.net\TopBrains\BankTransaction_9\BankTransaction_9\obj\Debug\BankTransaction_9.csproj.CoreCompileInputs.cache
+D:\.net\TopBrains\BankTransaction_9\BankTransaction_9\obj\Debug\BankTransaction_9.exe
+D:\.net\TopBrains\BankTransaction_9\BankTransaction_9\obj\Debug\BankTransaction_9.pdb
