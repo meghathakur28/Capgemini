@@ -1,0 +1,7 @@
+D:\.net\TopBrains\DisplayHeight_7\DisplayHeight_7\bin\Debug\DisplayHeight_7.exe.config
+D:\.net\TopBrains\DisplayHeight_7\DisplayHeight_7\bin\Debug\DisplayHeight_7.exe
+D:\.net\TopBrains\DisplayHeight_7\DisplayHeight_7\bin\Debug\DisplayHeight_7.pdb
+D:\.net\TopBrains\DisplayHeight_7\DisplayHeight_7\obj\Debug\DisplayHeight_7.csproj.AssemblyReference.cache
+D:\.net\TopBrains\DisplayHeight_7\DisplayHeight_7\obj\Debug\DisplayHeight_7.csproj.CoreCompileInputs.cache
+D:\.net\TopBrains\DisplayHeight_7\DisplayHeight_7\obj\Debug\DisplayHeight_7.exe
+D:\.net\TopBrains\DisplayHeight_7\DisplayHeight_7\obj\Debug\DisplayHeight_7.pdb
