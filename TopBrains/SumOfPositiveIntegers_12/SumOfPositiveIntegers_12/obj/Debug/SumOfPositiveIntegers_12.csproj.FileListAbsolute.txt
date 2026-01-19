@@ -1,0 +1,7 @@
+D:\.net\TopBrains\SumOfPositiveIntegers_12\SumOfPositiveIntegers_12\bin\Debug\SumOfPositiveIntegers_12.exe.config
+D:\.net\TopBrains\SumOfPositiveIntegers_12\SumOfPositiveIntegers_12\bin\Debug\SumOfPositiveIntegers_12.exe
+D:\.net\TopBrains\SumOfPositiveIntegers_12\SumOfPositiveIntegers_12\bin\Debug\SumOfPositiveIntegers_12.pdb
+D:\.net\TopBrains\SumOfPositiveIntegers_12\SumOfPositiveIntegers_12\obj\Debug\SumOfPositiveIntegers_12.csproj.AssemblyReference.cache
+D:\.net\TopBrains\SumOfPositiveIntegers_12\SumOfPositiveIntegers_12\obj\Debug\SumOfPositiveIntegers_12.csproj.CoreCompileInputs.cache
+D:\.net\TopBrains\SumOfPositiveIntegers_12\SumOfPositiveIntegers_12\obj\Debug\SumOfPositiveIntegers_12.exe
+D:\.net\TopBrains\SumOfPositiveIntegers_12\SumOfPositiveIntegers_12\obj\Debug\SumOfPositiveIntegers_12.pdb
