@@ -1,0 +1,7 @@
+D:\.net\TopBrains\LargestNumber\bin\Debug\LargestNumber.exe.config
+D:\.net\TopBrains\LargestNumber\bin\Debug\LargestNumber.exe
+D:\.net\TopBrains\LargestNumber\bin\Debug\LargestNumber.pdb
+D:\.net\TopBrains\LargestNumber\obj\Debug\LargestNumber.csproj.AssemblyReference.cache
+D:\.net\TopBrains\LargestNumber\obj\Debug\LargestNumber.csproj.CoreCompileInputs.cache
+D:\.net\TopBrains\LargestNumber\obj\Debug\LargestNumber.exe
+D:\.net\TopBrains\LargestNumber\obj\Debug\LargestNumber.pdb
