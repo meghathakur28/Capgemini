@@ -1,0 +1,15 @@
+D:\.net\TopBrains\Dictionary_24\Dictionary_24\bin\Debug\net10.0\Dictionary_24.exe
+D:\.net\TopBrains\Dictionary_24\Dictionary_24\bin\Debug\net10.0\Dictionary_24.deps.json
+D:\.net\TopBrains\Dictionary_24\Dictionary_24\bin\Debug\net10.0\Dictionary_24.runtimeconfig.json
+D:\.net\TopBrains\Dictionary_24\Dictionary_24\bin\Debug\net10.0\Dictionary_24.dll
+D:\.net\TopBrains\Dictionary_24\Dictionary_24\bin\Debug\net10.0\Dictionary_24.pdb
+D:\.net\TopBrains\Dictionary_24\Dictionary_24\obj\Debug\net10.0\Dictionary_24.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\TopBrains\Dictionary_24\Dictionary_24\obj\Debug\net10.0\Dictionary_24.AssemblyInfoInputs.cache
+D:\.net\TopBrains\Dictionary_24\Dictionary_24\obj\Debug\net10.0\Dictionary_24.AssemblyInfo.cs
+D:\.net\TopBrains\Dictionary_24\Dictionary_24\obj\Debug\net10.0\Dictionary_24.csproj.CoreCompileInputs.cache
+D:\.net\TopBrains\Dictionary_24\Dictionary_24\obj\Debug\net10.0\Dictionary_24.sourcelink.json
+D:\.net\TopBrains\Dictionary_24\Dictionary_24\obj\Debug\net10.0\Dictionary_24.dll
+D:\.net\TopBrains\Dictionary_24\Dictionary_24\obj\Debug\net10.0\refint\Dictionary_24.dll
+D:\.net\TopBrains\Dictionary_24\Dictionary_24\obj\Debug\net10.0\Dictionary_24.pdb
+D:\.net\TopBrains\Dictionary_24\Dictionary_24\obj\Debug\net10.0\Dictionary_24.genruntimeconfig.cache
+D:\.net\TopBrains\Dictionary_24\Dictionary_24\obj\Debug\net10.0\ref\Dictionary_24.dll
