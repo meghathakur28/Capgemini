@@ -1,7 +1,0 @@
-D:\.net\TopBrains\SortedArray_!0\SortedArray_!0\bin\Debug\SortedArray_!0.exe.config
-D:\.net\TopBrains\SortedArray_!0\SortedArray_!0\bin\Debug\SortedArray_!0.exe
-D:\.net\TopBrains\SortedArray_!0\SortedArray_!0\bin\Debug\SortedArray_!0.pdb
-D:\.net\TopBrains\SortedArray_!0\SortedArray_!0\obj\Debug\SortedArray_!0.csproj.AssemblyReference.cache
-D:\.net\TopBrains\SortedArray_!0\SortedArray_!0\obj\Debug\SortedArray_!0.csproj.CoreCompileInputs.cache
-D:\.net\TopBrains\SortedArray_!0\SortedArray_!0\obj\Debug\SortedArray_!0.exe
-D:\.net\TopBrains\SortedArray_!0\SortedArray_!0\obj\Debug\SortedArray_!0.pdb
