@@ -1,0 +1,7 @@
+D:\.net\TopBrains\ObjectArray_23\ObjectArray_23\bin\Debug\ObjectArray_23.exe.config
+D:\.net\TopBrains\ObjectArray_23\ObjectArray_23\bin\Debug\ObjectArray_23.exe
+D:\.net\TopBrains\ObjectArray_23\ObjectArray_23\bin\Debug\ObjectArray_23.pdb
+D:\.net\TopBrains\ObjectArray_23\ObjectArray_23\obj\Debug\ObjectArray_23.csproj.AssemblyReference.cache
+D:\.net\TopBrains\ObjectArray_23\ObjectArray_23\obj\Debug\ObjectArray_23.csproj.CoreCompileInputs.cache
+D:\.net\TopBrains\ObjectArray_23\ObjectArray_23\obj\Debug\ObjectArray_23.exe
+D:\.net\TopBrains\ObjectArray_23\ObjectArray_23\obj\Debug\ObjectArray_23.pdb
