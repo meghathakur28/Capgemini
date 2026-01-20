@@ -1,0 +1,7 @@
+D:\.net\TopBrains\Strings_22\Strings_22\bin\Debug\Strings_22.exe.config
+D:\.net\TopBrains\Strings_22\Strings_22\bin\Debug\Strings_22.exe
+D:\.net\TopBrains\Strings_22\Strings_22\bin\Debug\Strings_22.pdb
+D:\.net\TopBrains\Strings_22\Strings_22\obj\Debug\Strings_22.csproj.AssemblyReference.cache
+D:\.net\TopBrains\Strings_22\Strings_22\obj\Debug\Strings_22.csproj.CoreCompileInputs.cache
+D:\.net\TopBrains\Strings_22\Strings_22\obj\Debug\Strings_22.exe
+D:\.net\TopBrains\Strings_22\Strings_22\obj\Debug\Strings_22.pdb
