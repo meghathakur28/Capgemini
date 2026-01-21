@@ -1,0 +1,15 @@
+D:\.net\Event-DrivenLotteryTicketSystem\obj\Debug\net10.0\Event-DrivenLotteryTicketSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Event-DrivenLotteryTicketSystem\obj\Debug\net10.0\Event-DrivenLotteryTicketSystem.AssemblyInfoInputs.cache
+D:\.net\Event-DrivenLotteryTicketSystem\obj\Debug\net10.0\Event-DrivenLotteryTicketSystem.AssemblyInfo.cs
+D:\.net\Event-DrivenLotteryTicketSystem\obj\Debug\net10.0\Event-DrivenLotteryTicketSystem.csproj.CoreCompileInputs.cache
+D:\.net\Event-DrivenLotteryTicketSystem\obj\Debug\net10.0\Event-DrivenLotteryTicketSystem.sourcelink.json
+D:\.net\Event-DrivenLotteryTicketSystem\bin\Debug\net10.0\Event-DrivenLotteryTicketSystem.exe
+D:\.net\Event-DrivenLotteryTicketSystem\bin\Debug\net10.0\Event-DrivenLotteryTicketSystem.deps.json
+D:\.net\Event-DrivenLotteryTicketSystem\bin\Debug\net10.0\Event-DrivenLotteryTicketSystem.runtimeconfig.json
+D:\.net\Event-DrivenLotteryTicketSystem\bin\Debug\net10.0\Event-DrivenLotteryTicketSystem.dll
+D:\.net\Event-DrivenLotteryTicketSystem\bin\Debug\net10.0\Event-DrivenLotteryTicketSystem.pdb
+D:\.net\Event-DrivenLotteryTicketSystem\obj\Debug\net10.0\Event-DrivenLotteryTicketSystem.dll
+D:\.net\Event-DrivenLotteryTicketSystem\obj\Debug\net10.0\refint\Event-DrivenLotteryTicketSystem.dll
+D:\.net\Event-DrivenLotteryTicketSystem\obj\Debug\net10.0\Event-DrivenLotteryTicketSystem.pdb
+D:\.net\Event-DrivenLotteryTicketSystem\obj\Debug\net10.0\Event-DrivenLotteryTicketSystem.genruntimeconfig.cache
+D:\.net\Event-DrivenLotteryTicketSystem\obj\Debug\net10.0\ref\Event-DrivenLotteryTicketSystem.dll
