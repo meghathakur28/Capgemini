@@ -1,0 +1,15 @@
+D:\.net\FlipKeyLogicalProblem\FlipKeyLogicalProblem\obj\Debug\net10.0\FlipKeyLogicalProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\FlipKeyLogicalProblem\FlipKeyLogicalProblem\obj\Debug\net10.0\FlipKeyLogicalProblem.AssemblyInfoInputs.cache
+D:\.net\FlipKeyLogicalProblem\FlipKeyLogicalProblem\obj\Debug\net10.0\FlipKeyLogicalProblem.AssemblyInfo.cs
+D:\.net\FlipKeyLogicalProblem\FlipKeyLogicalProblem\obj\Debug\net10.0\FlipKeyLogicalProblem.csproj.CoreCompileInputs.cache
+D:\.net\FlipKeyLogicalProblem\FlipKeyLogicalProblem\obj\Debug\net10.0\FlipKeyLogicalProblem.sourcelink.json
+D:\.net\FlipKeyLogicalProblem\FlipKeyLogicalProblem\bin\Debug\net10.0\FlipKeyLogicalProblem.exe
+D:\.net\FlipKeyLogicalProblem\FlipKeyLogicalProblem\bin\Debug\net10.0\FlipKeyLogicalProblem.deps.json
+D:\.net\FlipKeyLogicalProblem\FlipKeyLogicalProblem\bin\Debug\net10.0\FlipKeyLogicalProblem.runtimeconfig.json
+D:\.net\FlipKeyLogicalProblem\FlipKeyLogicalProblem\bin\Debug\net10.0\FlipKeyLogicalProblem.dll
+D:\.net\FlipKeyLogicalProblem\FlipKeyLogicalProblem\bin\Debug\net10.0\FlipKeyLogicalProblem.pdb
+D:\.net\FlipKeyLogicalProblem\FlipKeyLogicalProblem\obj\Debug\net10.0\FlipKeyLogicalProblem.dll
+D:\.net\FlipKeyLogicalProblem\FlipKeyLogicalProblem\obj\Debug\net10.0\refint\FlipKeyLogicalProblem.dll
+D:\.net\FlipKeyLogicalProblem\FlipKeyLogicalProblem\obj\Debug\net10.0\FlipKeyLogicalProblem.pdb
+D:\.net\FlipKeyLogicalProblem\FlipKeyLogicalProblem\obj\Debug\net10.0\FlipKeyLogicalProblem.genruntimeconfig.cache
+D:\.net\FlipKeyLogicalProblem\FlipKeyLogicalProblem\obj\Debug\net10.0\ref\FlipKeyLogicalProblem.dll
