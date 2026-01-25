@@ -1,0 +1,15 @@
+D:\.net\StreamBuzzCollectionBasedProblem\StreamBuzzCollectionBasedProblem\obj\Debug\net10.0\StreamBuzzCollectionBasedProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\StreamBuzzCollectionBasedProblem\StreamBuzzCollectionBasedProblem\obj\Debug\net10.0\StreamBuzzCollectionBasedProblem.AssemblyInfoInputs.cache
+D:\.net\StreamBuzzCollectionBasedProblem\StreamBuzzCollectionBasedProblem\obj\Debug\net10.0\StreamBuzzCollectionBasedProblem.AssemblyInfo.cs
+D:\.net\StreamBuzzCollectionBasedProblem\StreamBuzzCollectionBasedProblem\obj\Debug\net10.0\StreamBuzzCollectionBasedProblem.csproj.CoreCompileInputs.cache
+D:\.net\StreamBuzzCollectionBasedProblem\StreamBuzzCollectionBasedProblem\obj\Debug\net10.0\StreamBuzzCollectionBasedProblem.sourcelink.json
+D:\.net\StreamBuzzCollectionBasedProblem\StreamBuzzCollectionBasedProblem\bin\Debug\net10.0\StreamBuzzCollectionBasedProblem.exe
+D:\.net\StreamBuzzCollectionBasedProblem\StreamBuzzCollectionBasedProblem\bin\Debug\net10.0\StreamBuzzCollectionBasedProblem.deps.json
+D:\.net\StreamBuzzCollectionBasedProblem\StreamBuzzCollectionBasedProblem\bin\Debug\net10.0\StreamBuzzCollectionBasedProblem.runtimeconfig.json
+D:\.net\StreamBuzzCollectionBasedProblem\StreamBuzzCollectionBasedProblem\bin\Debug\net10.0\StreamBuzzCollectionBasedProblem.dll
+D:\.net\StreamBuzzCollectionBasedProblem\StreamBuzzCollectionBasedProblem\bin\Debug\net10.0\StreamBuzzCollectionBasedProblem.pdb
+D:\.net\StreamBuzzCollectionBasedProblem\StreamBuzzCollectionBasedProblem\obj\Debug\net10.0\StreamBuzzCollectionBasedProblem.dll
+D:\.net\StreamBuzzCollectionBasedProblem\StreamBuzzCollectionBasedProblem\obj\Debug\net10.0\refint\StreamBuzzCollectionBasedProblem.dll
+D:\.net\StreamBuzzCollectionBasedProblem\StreamBuzzCollectionBasedProblem\obj\Debug\net10.0\StreamBuzzCollectionBasedProblem.pdb
+D:\.net\StreamBuzzCollectionBasedProblem\StreamBuzzCollectionBasedProblem\obj\Debug\net10.0\StreamBuzzCollectionBasedProblem.genruntimeconfig.cache
+D:\.net\StreamBuzzCollectionBasedProblem\StreamBuzzCollectionBasedProblem\obj\Debug\net10.0\ref\StreamBuzzCollectionBasedProblem.dll
